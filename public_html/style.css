@@ -3,6 +3,8 @@
     padding: 0;
 }
 body {
-    background: url(images/map.jpg);
+    background:#edece8 url(images/map.jpg) center top no-repeat;   
 }
-
+.main {
+    width:970px; margin:0 auto; 
+}
